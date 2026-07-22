@@ -5,7 +5,7 @@
 ## Tecnologias
 Java 21 | Maven | Swing | H2 Database | Spark Java (REST)
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 **Combustíveis** • Criar • Listar • Editar • Deletar  
 **Bombas** • Criar • Listar • Editar • Deletar  
 **Abastecimentos** • Registrar • Listar • Consultar por período  
